@@ -1,5 +1,9 @@
 /* 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif */
 
+.contenedor-lugares {
+  overflow: hidden;
+}
+
 .contenido-centrado {
   text-align: center;
 }
@@ -33,11 +37,7 @@ h2 {
 p {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: #5c74b1;
-  font-size: 20px;
-}
-
-.contenedor-lugares {
-  overflow: hidden;
+  font-size: 16px;
 }
 
 .espaciado-izquierdo {
@@ -46,4 +46,8 @@ p {
 
 .espaciado-derecho {
   margin-right: 15px;
+}
+
+.mickey-minnie {
+  width: 100%;
 }
